@@ -9,7 +9,7 @@
    Android官方MVP架构：http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd
 #Guava
    Guava github：https://github.com/google/guava <br>
-   Guava optional：http://www.cnblogs.com/whitewolf/p/4231783.html  <br>
+   Guava optional(解决空指针问题)：http://www.cnblogs.com/whitewolf/p/4231783.html  <br>
    
    
    
