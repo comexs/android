@@ -19,6 +19,8 @@
    开发规范:http://keeganlee.me/post/android/20150709<br>
    开发心得:http://blog.chengdazhi.com/index.php/145<br>
    项目混淆:http://www.jianshu.com/p/f3455ecaa56e<br>
+#Fragment问题
+   Fragment相关的坑：http://www.jianshu.com/p/d9143a92ad94<br>
    
    
    
