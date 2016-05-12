@@ -7,7 +7,8 @@
 #解耦框架(Rx)
    ReactiveX文档中文翻译：https://mcxiaoke.gitbooks.io/rxdocs/content/index.html <br>
    Android官方MVP架构：http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd<br>
-   EventBus 3 :http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=938&fromuid=1147
+   EventBus 3 :http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=938&fromuid=1147<br>
+   Dagger2:http://www.jianshu.com/p/c2feb21064bb
 #Guava
    Guava github：https://github.com/google/guava <br>
    Guava optional(解决空指针问题)：http://www.cnblogs.com/whitewolf/p/4231783.html  <br>
