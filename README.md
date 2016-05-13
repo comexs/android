@@ -24,6 +24,7 @@
    Fragment相关的坑：http://www.jianshu.com/p/d9143a92ad94<br>
 #在线资源
    图标资源:http://www.iconres.com/android/index.php<br>
+   GIF播放：https://github.com/koral--/android-gif-drawable<br>
    
    
    
