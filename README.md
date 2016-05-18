@@ -25,9 +25,9 @@
 #在线资源
    图标资源:http://www.iconres.com/android/index.php<br>
    GIF播放：https://github.com/koral--/android-gif-drawable<br>
-#JNI
-   jni学习：http://blog.csdn.net/qinjuning/article/category/1153412
-    
+#NDK
+   jni学习：http://blog.csdn.net/qinjuning/article/category/1153412<br>
+   NDK问题：http://blog.csdn.net/lee_tianya/article/category/2823677
    
    
    
