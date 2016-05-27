@@ -14,7 +14,8 @@
    Guava optional(解决空指针问题)：http://www.cnblogs.com/whitewolf/p/4231783.html  <br>
                                  https://codingstyle.cn/topics/61
 #内存优化
-   缓冲区(ByteBuffer)：内存中预留指定大小的存储空间用来对输入/输出(I/O)的数据作临时存储，这部分预留的内存空间就叫做缓冲区。
+   缓冲区(ByteBuffer)：内存中预留指定大小的存储空间用来对输入/输出(I/O)的数据作临时存储，这部分预留的内存空间就叫做缓冲区<br>
+   性能优化指南：http://blog.tingyun.com/web/article/detail/155
 #开发规范
    编码规范:http://www.jianshu.com/p/0a984f999592<br>
              https://www.sdk.cn/news/3137<br>
