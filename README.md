@@ -35,6 +35,10 @@
    NDK问题：http://blog.csdn.net/lee_tianya/article/category/2823677
 #聊天项目
    环信：http://www.jianshu.com/p/b2ca52337fe5
+#辅助工具
+   adapter辅助类:https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
+   MD设计:https://github.com/pnikosis/materialish-progress<br>
+   
    
    
    
