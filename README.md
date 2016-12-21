@@ -8,14 +8,13 @@
    [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)<br>
    [Android官方MVP架构](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)<br>
    [EventBus3](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=938&fromuid=1147)<br>
-   [Dagger2](http://www.jianshu.com/p/c2feb21064bb)
-###Guava
-   [Guava github](https://github.com/google/guava) <br>
-   [Guava optional(解决空指针问题)](http://www.cnblogs.com/whitewolf/p/4231783.html)  <br>
-                   
-###内存优化
-   内存中预留指定大小的存储空间用来对输入/输出(I/O)的数据作临时存储，这部分预留的内存空间就叫做缓冲区<br>
-   [性能优化指南](http://blog.tingyun.com/web/article/detail/155)
+   [Dagger2](http://www.jianshu.com/p/c2feb21064bb)                 
+###性能优化
+   [性能优化指南](http://blog.tingyun.com/web/article/detail/155)<br>
+   [Android最佳性能实践(1)：合理管理内存](http://blog.csdn.net/guolin_blog/article/details/42238627)<br>
+   [Android最佳性能实践(2)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/422386337)<br>
+   [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)<br>
+   [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)<br>
 ###开发规范
    [编码规范1](http://www.jianshu.com/p/0a984f999592)<br>
    [编码规范2](https://www.sdk.cn/news/3137)<br>
