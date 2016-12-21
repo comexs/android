@@ -28,7 +28,7 @@
 ###在线资源
    [图标资源](http://www.iconres.com/android/index.php)<br>
    [GIF播放](https://github.com/koral--/android-gif-drawable)<br>
-   [GITHUB TOP100](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
+   [GITHUB TOP100](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)<br>
    UI模型工具：axure
 ###NDK
    [jni学习](http://blog.csdn.net/qinjuning/article/category/1153412)<br>
